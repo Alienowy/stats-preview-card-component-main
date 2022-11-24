@@ -6,8 +6,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ## Links
 
-- Solution URL: [Any feedback would be great](https://www.frontendmentor.io/solutions/responsive-product-card-preview-challenge-no3-sJUvU0aL7P#comment-63774c4eca9a0624bcef707b)
-- Live Site URL: [Stats preview card component](https://alienowy.github.io/product-preview-card-component-main/)
+- Solution URL: [Any feedback would be great](https://www.frontendmentor.io/solutions/stats-preview-card-component-html-css-grid-and-flex-4s2YY4fb_L)
+- Live Site URL: [Stats preview card component](https://alienowy.github.io/stats-preview-card-component-main/)
 
 ## Built with
 
